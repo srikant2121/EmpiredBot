@@ -1,0 +1,46 @@
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Bot Application1.dll.config
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Bot Application1.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Bot Application1.pdb
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Autofac.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Chronic.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Builder.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Connector.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Newtonsoft.Json.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Net.Http.Formatting.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Web.Http.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Web.Http.WebHost.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Autofac.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Builder.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.Bot.Connector.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\Newtonsoft.Json.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Net.Http.Formatting.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Web.Http.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\System.Web.Http.WebHost.xml
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\obj\Debug\EmpiredBot.csprojResolveAssemblyReference.cache
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\obj\Debug\Bot Application1.dll
+C:\Project\Practice\2017\February\empiredbot\EmpiredBot\obj\Debug\Bot Application1.pdb
